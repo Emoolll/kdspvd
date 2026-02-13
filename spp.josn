@@ -32,9 +32,9 @@
         "priority": 4
     },
     {
-        "id": "yinghua",
-        "name": "樱花动漫",
-        "baseUrl": "https://kuaikan-api.com/api.php/provide/vod",
+        "id": "jinying",
+        "name": "金鹰",
+        "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 5
