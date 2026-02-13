@@ -42,7 +42,7 @@
     {
         "id": "kuaiche",
         "name": "快车",
-        "baseUrl": "https://caiji.kczyapi.com/api.php/provide/vod",
+        "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 6
