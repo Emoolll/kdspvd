@@ -1,0 +1,42 @@
+[
+    {
+        "id": "feifan",
+        "name": "非凡资源",
+        "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 1
+    },
+    {
+        "id": "wolong",
+        "name": "卧龙资源",
+        "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 2
+    },
+    {
+        "id": "zuida",
+        "name": "最大资源",
+        "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 3
+    },
+    {
+        "id": "liangzi",
+        "name": "量子资源",
+        "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+        "group": "normal",
+        "enabled": true,
+        "priority": 4
+    },
+    {
+        "id": "yinghua",
+        "name": "樱花动漫",
+        "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 5
+    }
+]
