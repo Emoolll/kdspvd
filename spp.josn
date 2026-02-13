@@ -34,7 +34,7 @@
     {
         "id": "yinghua",
         "name": "樱花动漫",
-        "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+        "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 5
@@ -42,7 +42,7 @@
     {
         "id": "kuaiche",
         "name": "快车",
-        "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+        "baseUrl": "https://zy.qiaoji8.com/gouzi.php?url=",
         "group": "normal",
         "enabled": true,
         "priority": 6
