@@ -32,9 +32,9 @@
         "priority": 4
     },
     {
-        "id": "jinying",
-        "name": "金鹰",
-        "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
+        "id": "baiduziyuan",
+        "name": "百度ziyuan",
+        "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 5
